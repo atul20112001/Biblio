@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Story Book",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Free",
+    "price": 100,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "2",
+    "name": "Science Book",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Free",
+    "price": 200,
+    "image": "https://img.freepik.com/free-vector/international-literacy-day-with-lots-books_23-2148608688.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "3",
+    "name": "Fiction",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Free",
+    "price": 100,
+    "image": "https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007382.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "4",
+    "name": "Philosophy",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Premium",
+    "price": 100,
+    "image": "https://img.freepik.com/free-photo/books-assortment-with-white-background_23-2148898300.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "5",
+    "name": "History",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Free",
+    "price": 100,
+    "image": "https://img.freepik.com/premium-psd/stack-books-with-word-olive-top_1159535-848.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "6",
+    "name": "Psycology",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Free",
+    "price": 100,
+    "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling_23-2150793585.jpg?t=st=1723491809~exp=1723495409~hmac=35b646e97bd9333fc3c0163fc24b24a3aabdd3d0a070deec0d848abf9843ca7f&w=360"
+    
+  },
+  {
+    "id": "7",
+    "name": "Classics",
+    "author": "Author 1",
+    "title": "Description 1",
+    "Category": "Classics",
+    "price": 500,
+    "image": "https://img.freepik.com/free-photo/crop-hands-holding-book-near-coffee-flowers_23-2147868653.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "8",
+    "name": "Autobiography",
+    "author": "Author 1",
+    "title": "Description 1",
+    "category": "Bio",
+    "price": 250,
+    "image": "https://img.freepik.com/premium-photo/books-with-set-classic-novels_1295756-37108.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  },
+  {
+    "id": "9",
+    "name": "Mythological Book",
+    "author": "Author 1",
+    "title": "Description 1",
+    "category": "Classics",
+    "price": 100,
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.2.1180313013.1722715741&semt=ais_hybrid"
+    
+  }
+]
